@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.webp">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.webp">
+  <img src="assets/header-light.webp" alt="Decorative banner: a laptop showing code on a desk, lit by soft purple and warm lamp light" width="100%">
+</picture>
+
 # Danas Savickas
 
 I'm a third-year student pursuing a BSc (Honours) in Computer Science at Technological University Dublin, with interests in software engineering, algorithms and database-backed applications.
