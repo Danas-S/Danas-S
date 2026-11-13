@@ -6,6 +6,13 @@
 
 # Danas Savickas
 
+<p>
+  <picture>
+    <source media="(prefers-reduced-motion: no-preference)" srcset="assets/intro.svg">
+    <img src="assets/intro-static.svg" alt="Aspiring Software Engineer" width="340">
+  </picture>
+</p>
+
 I'm a third-year student pursuing a BSc (Honours) in Computer Science at Technological University Dublin, with interests in software engineering, algorithms and database-backed applications.
 
 I'm seeking a software engineering or related technology placement in Ireland, starting January 2027.
