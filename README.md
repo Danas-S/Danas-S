@@ -41,12 +41,23 @@ Current university modules: Kotlin and Jetpack Compose for Android, Docker, netw
 
 ## Featured projects
 
-**[Bus Ticket Booking System](https://github.com/Danas-S/Bus_Ticket_Booking_System)** — A Python and SQLite booking application featuring customer and admin workflows, six relational tables and transaction-safe seat reservations. Includes 18 automated tests.
+<p>
+  <a href="https://github.com/Danas-S/Bus_Ticket_Booking_System"><img src="assets/projects/bus.svg" alt="Bus Ticket Booking System repository" width="410"></a>
+  <a href="https://github.com/Danas-S/Library_of_Alexandria_Book_Reservation_Website"><img src="assets/projects/library.svg" alt="Library of Alexandria repository" width="410"></a>
+  <a href="https://github.com/Danas-S/Car_Engine_Parts_Dispatch_Program"><img src="assets/projects/car.svg" alt="Car Engine Parts Dispatch Program repository" width="410"></a>
+  <a href="https://github.com/Danas-S/Expense_Tracker"><img src="assets/projects/expense.svg" alt="Expense Tracker repository" width="410"></a>
+</p>
 
-**[Library of Alexandria](https://github.com/Danas-S/Library_of_Alexandria_Book_Reservation_Website)** — A PHP and MySQL library reservation website featuring user accounts, catalogue search, pagination, prepared statements, CSRF protection and database-backed duplicate-reservation prevention.
+**[Bus Ticket Booking System](https://github.com/Danas-S/Bus_Ticket_Booking_System)** — A Python and SQLite booking application featuring customer and admin workflows, six relational tables and transaction-safe seat reservations. Includes 18 automated tests.<br>
+Evidence: [booking transaction](https://github.com/Danas-S/Bus_Ticket_Booking_System/blob/2d9ad1f7d3b4b3c101129c191bbcec58e38ee095/main.py#L206-L223) · [booking tests](https://github.com/Danas-S/Bus_Ticket_Booking_System/blob/2d9ad1f7d3b4b3c101129c191bbcec58e38ee095/test_booking.py)
 
-**[Car Engine Parts Dispatch Program](https://github.com/Danas-S/Car_Engine_Parts_Dispatch_Program)** — A C11 dispatch application using merge sort, binary search and CSV processing to calculate a van load within a 100 kg capacity limit. Includes 19 automated tests.
+**[Library of Alexandria](https://github.com/Danas-S/Library_of_Alexandria_Book_Reservation_Website)** — A PHP and MySQL library reservation website featuring user accounts, catalogue search, pagination, prepared statements, CSRF protection and database-backed duplicate-reservation prevention.<br>
+Evidence: [reservation schema](https://github.com/Danas-S/Library_of_Alexandria_Book_Reservation_Website/blob/1a37df7bad2e8b105f38d50f01b0cafb20054033/library.sql#L37-L45) · [reservation handler](https://github.com/Danas-S/Library_of_Alexandria_Book_Reservation_Website/blob/1a37df7bad2e8b105f38d50f01b0cafb20054033/reserve.php#L20-L43)
 
-**[Expense Tracker](https://github.com/Danas-S/Expense_Tracker)** — A Python command-line expense tracker featuring CSV persistence, date and amount validation, and expense categorisation. Includes 79 automated tests.
+**[Car Engine Parts Dispatch Program](https://github.com/Danas-S/Car_Engine_Parts_Dispatch_Program)** — A C11 dispatch application using merge sort, binary search and CSV processing to calculate a van load within a 100 kg capacity limit. Includes 19 automated tests.<br>
+Evidence: [100 kg dispatch rule](https://github.com/Danas-S/Car_Engine_Parts_Dispatch_Program/blob/e4a41061eb34daf4d3abf408aeb9891b792c8c7a/sorting.c#L308-L321) · [test suite](https://github.com/Danas-S/Car_Engine_Parts_Dispatch_Program/blob/e4a41061eb34daf4d3abf408aeb9891b792c8c7a/tests/test_sorting.py)
+
+**[Expense Tracker](https://github.com/Danas-S/Expense_Tracker)** — A Python command-line expense tracker featuring CSV persistence, date and amount validation, and expense categorisation. Includes 79 automated tests.<br>
+Evidence: [input validation](https://github.com/Danas-S/Expense_Tracker/blob/66f0cc05d2c6241b2181b6d0d349cbf4ebb80009/expenses.py#L287-L338) · [test suite](https://github.com/Danas-S/Expense_Tracker/blob/66f0cc05d2c6241b2181b6d0d349cbf4ebb80009/test_expenses.py)
 
 More projects are on my [repositories page](https://github.com/Danas-S?tab=repositories).
